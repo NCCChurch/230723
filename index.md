@@ -2,7 +2,7 @@
 ## 讲员：张弟兄
 ## 经文：《路加福音》19章
 
-<audio controls src="./00_230723.mp3"></audio>
+<audio controls src="./230723.mp3"></audio>
 
 ![](./01.JPG)
 ![](./02.JPG)
